@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1748083934 source:c:\users\andre\downloads\benchmark\convert_or\convert_or\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+
